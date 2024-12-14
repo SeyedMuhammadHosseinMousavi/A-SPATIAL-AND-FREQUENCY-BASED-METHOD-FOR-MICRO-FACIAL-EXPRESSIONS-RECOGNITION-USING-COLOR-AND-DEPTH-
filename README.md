@@ -1,8 +1,5 @@
 # A Spatial And Frequency Based Method For Micro Facial Expressions Recognition Using Color And Depth Images
 
-### This code implements the following paper:
-- A SPATIAL AND FREQUENCY BASED METHOD FOR MICRO FACIAL EXPRESSIONS RECOGNITION USING COLOR AND DEPTH IMAGESA SPATIAL AND FREQUENCY BASED METHOD FOR MICRO FACIAL EXPRESSIONS RECOGNITION USING COLOR AND DEPTH IMAGES, Journal of Software Engineering & Intelligent Systems 6 (1), 17,(2021).
- 
 ### Link to the paper:
 - https://www.researchgate.net/publication/351334905_A_SPATIAL_AND_FREQUENCY_BASED_METHOD_FOR_MICRO_FACIAL_EXPRESSIONS_RECOGNITION_USING_COLOR_AND_DEPTH_IMAGES_ISSN_2518-8739_Online_JSEIS_httpwwwjseisorgvolumevol6no1html
 - Or
