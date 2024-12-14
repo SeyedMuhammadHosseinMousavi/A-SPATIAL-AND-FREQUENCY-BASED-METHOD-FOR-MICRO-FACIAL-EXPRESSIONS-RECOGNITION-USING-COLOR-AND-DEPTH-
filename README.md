@@ -107,6 +107,37 @@ Features extracted from **spatial** and **frequency domains**:
 - **Neuro-Fuzzy Classifier**:
   - Combines neural networks with fuzzy logic.
   - Utilizes fuzzy IF-THEN rules for non-linear approximation.
+![f 2](https://github.com/user-attachments/assets/9d3c8858-f160-4cf7-b4d3-ed07af035e8c)
+
+![f3](https://github.com/user-attachments/assets/bb6754db-935c-4189-ac97-fda6470f0c4a)
+
+![f5](https://github.com/user-attachments/assets/984aa002-8c31-475c-94e4-c4154401f107)
+
+![f7](https://github.com/user-attachments/assets/2d7e53a2-b35f-4fbe-975d-d6babb4aa92c)
+![action units](https://github.com/user-attachments/assets/f49330fa-ec62-4d24-a02d-b0594b114bd5)
+![f110](https://github.com/user-attachments/assets/47cf7234-3245-4ac9-956b-c16d3b4dacbd)
+
+![f 13](https://github.com/user-attachments/assets/914b2e3b-1dac-43b7-808f-98cbab27ec4f)
+
+
+![figure 16](https://github.com/user-attachments/assets/bee74f49-d670-4f97-9fbf-7d8db75c4c24)
+
+![fig 17](https://github.com/user-attachments/assets/0f33f2d8-e048-4824-9e20-ec9d8da25620)
+
+![f 18](https://github.com/user-attachments/assets/258516cb-0ce4-4a5b-ad22-fc1677838c31)
+
+
+![f 19](https://github.com/user-attachments/assets/2c2f6113-e0c4-4da4-a02c-291c6d6919de)
+
+![f 20](https://github.com/user-attachments/assets/a8f22e31-8156-4d9a-b5a0-f794e6141034)
+
+![res](https://github.com/user-attachments/assets/ebac8fd3-0b69-41c3-bf33-a694a2c963a4)
+
+
+
+
+
+
 
 
 
