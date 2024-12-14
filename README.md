@@ -1,19 +1,17 @@
-# 
-%% 
- This code implements the following paper:
- A SPATIAL AND FREQUENCY BASED METHOD FOR MICRO FACIAL EXPRESSIONS 
- RECOGNITION USING COLOR AND DEPTH IMAGESA SPATIAL AND FREQUENCY BASED 
- METHOD FOR MICRO FACIAL EXPRESSIONS RECOGNITION USING COLOR AND DEPTH
- IMAGES, Journal of Software Engineering & Intelligent Systems 6 (1), 17,
- (2021).
+# A Spatial And Frequency Based Method For Micro Facial Expressions Recognition Using Color And Depth Images
 
- -In order to get the samples, it is required to send me a letter from your
- supervisor that it is going to be used just for your scientific experiment 
- and responsibility of any other usage is with your supervisor.
+### This code implements the following paper:
+- A SPATIAL AND FREQUENCY BASED METHOD FOR MICRO FACIAL EXPRESSIONS RECOGNITION USING COLOR AND DEPTH IMAGESA SPATIAL AND FREQUENCY BASED METHOD FOR MICRO FACIAL EXPRESSIONS RECOGNITION USING COLOR AND DEPTH IMAGES, Journal of Software Engineering & Intelligent Systems 6 (1), 17,(2021).
+ 
+### Link to the paper:
+- https://www.researchgate.net/publication/351334905_A_SPATIAL_AND_FREQUENCY_BASED_METHOD_FOR_MICRO_FACIAL_EXPRESSIONS_RECOGNITION_USING_COLOR_AND_DEPTH_IMAGES_ISSN_2518-8739_Online_JSEIS_httpwwwjseisorgvolumevol6no1html
+- Or
+- https://figshare.com/articles/journal_contribution/V6N1-2_A_SPATIAL_AND_FREQUENCY_BASED_METHOD_FOR_MICRO_FACIAL_EXPRESSIONS_RECOGNITION_USING_COLOR_AND_DEPTH_IMAGES/14538405?file=27875415
+- Or
+- https://www.academia.edu/50348966/A_SPATIAL_AND_FREQUENCY_BASED_METHOD_FOR_MICRO_FACIAL_EXPRESSIONS_RECOGNITION_USING_COLOR_AND_DEPTH_IMAGES
+- DOI: http://dx.doi.org/10.6084/m9.figshare.14538405
+- https://doi.org/10.6084/m9.figshare.14538405.v1
 
- My Email:    mosavi.a.i.buali@gmail.com
-
- Mousavi, Seyed Muhammad Hossein, and S. Younes Mirinezhad.
- "Iranian Kinect face database (IKFDB): a color-depth based face database
- collected by Kinect v. 2 sensor." SN Applied Sciences 3.1 (2021): 1-17.
-
+### Please cite:
+- MOUSAVI, SEYED MUHAMMAD HOSSEIN. "A SPATIAL AND FREQUENCY BASED METHOD FOR MICRO FACIAL EXPRESSIONS RECOGNITION USING COLOR AND DEPTH IMAGES." Journal of Software Engineering & Intelligent Systems 6.1 (2021): 17.
+- Mousavi, Seyed Muhammad Hossein (2021). V6N1-2 A SPATIAL AND FREQUENCY BASED METHOD FOR MICRO FACIAL EXPRESSIONS RECOGNITION USING COLOR AND DEPTH IMAGES. figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.14538405.v1
