@@ -1,9 +1,7 @@
 # A Spatial And Frequency Based Method For Micro Facial Expressions Recognition Using Color And Depth Images
 
 ### Link to the paper:
-<div align="justify">
 - https://www.researchgate.net/publication/351334905_A_SPATIAL_AND_FREQUENCY_BASED_METHOD_FOR_MICRO_FACIAL_EXPRESSIONS_RECOGNITION_USING_COLOR_AND_DEPTH_IMAGES_ISSN_2518-8739_Online_JSEIS_httpwwwjseisorgvolumevol6no1html
-</div>
 - Or
 - https://figshare.com/articles/journal_contribution/V6N1-2_A_SPATIAL_AND_FREQUENCY_BASED_METHOD_FOR_MICRO_FACIAL_EXPRESSIONS_RECOGNITION_USING_COLOR_AND_DEPTH_IMAGES/14538405?file=27875415
 - Or
