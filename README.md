@@ -10,13 +10,17 @@
 - https://doi.org/10.6084/m9.figshare.14538405.v1
 
 ### Please cite:
+<div align="justify">
 - MOUSAVI, SEYED MUHAMMAD HOSSEIN. "A SPATIAL AND FREQUENCY BASED METHOD FOR MICRO FACIAL EXPRESSIONS RECOGNITION USING COLOR AND DEPTH IMAGES." Journal of Software Engineering & Intelligent Systems 6.1 (2021): 17.
+</div>
+<div align="justify">
 - Mousavi, Seyed Muhammad Hossein (2021). V6N1-2 A SPATIAL AND FREQUENCY BASED METHOD FOR MICRO FACIAL EXPRESSIONS RECOGNITION USING COLOR AND DEPTH IMAGES. figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.14538405.v1
-
+</div>
 # Micro Facial Expressions Recognition Using Color and Depth Images
 
+<div align="justify">
 This repository contains the implementation of a **spatial and frequency-based method** for **Micro Facial Expressions Recognition (MFER)** using color and depth images captured with Kinect V2. The method leverages advanced feature extraction, dimensionality reduction, and classification techniques to achieve high accuracy in recognizing micro-expressions.
-
+</div>
 ---
 
 ## Table of Contents
